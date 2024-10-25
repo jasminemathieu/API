@@ -47,7 +47,7 @@ When you click on an application for the first time, you will be prompted to ins
 
 ![browser extens prompt](https://imgur.com/4panrKg.jpg) 
 
-![brows ext pg](https://imgur.com/2UkIqrW.jpg) 
+![brows ext pg](https://imgur.com/TNaoDBa.jpg) 
 
 Continue with the Okta browser extension login.
 
