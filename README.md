@@ -7,77 +7,74 @@
 
 ## Introduction
 
-This project covers the ease of the API Service Integration process on Okta.
+This project demonstrates the ease of integrating APIs on the Okta platform. API integration is a crucial aspect of IDaaS (Identity as a Service) platforms, enabling seamless connectivity and authentication across various applications.
 
-API is ________. On IDaaS platforms API can be used for __________.
+### Components used:
 
-### Components used to complete this project:
+    Okta
 
-- Okta
-- Okta browser plugin extension 
-- Applications
--   Facebook
--   Instagram
+    Okta Browser Plugin Extension
 
-## Start Section 1
+    Applications:
 
-We begin this project with signin onto our Okta account and selecting the Add apps menu.
+        Facebook
 
-![---](.jpg) 
+        Instagram
 
-![---](.jpg) 
 
-I then 
+## Step 1: Add Applications
 
-## Successful Restore Confirmation
-I was able to remote into the machine and confirm the restore machine duplication was successful.
+Begin by signing into the Okta account and selecting the Add Apps menu.
 
-![---](.jpg) 
+![](https://imgur.com/VoyR3uL.jpg) 
 
-I ran into complications when assigning a public...
+![](https://imgur.com/tDZwSQZ.jpg) 
 
-![---](.jpg) 
+Search and integrate the applications you want to connect. For this project, we'll focus on Facebook and Instagram.
 
-![---](.jpg) 
+![search fb](https://imgur.com/FLnQlf3.jpg) 
 
-From here I was able to configure a...
+![add fb](https://imgur.com/yBhscfj.jpg) 
 
-![---](.jpg) 
+![search insta](https://imgur.com/nAauRB7.jpg) 
 
-The IP address configuration was complete...
-![---](.jpg) 
+![add insta](https://imgur.com/HgZ3Khc.jpg) 
 
-I then created inbound rules to ...
+The applications have been successfully added. 
 
-![---](.jpg) 
+![---](https://imgur.com/8mRY4ac.jpg) 
 
-![---](.jpg)  
+## Step 2: Install Okta Browser Plugin
 
-## Successful Restore Confirmation
-I was able to remote into the machine and confirm the restore machine duplication was successful.
+When you click on an application for the first time, you will be prompted to install the Okta browser plugin to enable automatic login for applications.
 
-![---](.jpg)  
+![browser extens prompt](https://imgur.com/4panrKg.jpg) 
 
-I ran into complications when assigning a public...
+![brows ext pg](https://imgur.com/2UkIqrW.jpg) 
 
-![---](.jpg) 
+Continue with the Okta browser extension login.
 
-![---](.jpg) 
+![brows login](https://imgur.com/66OCnuo.jpg) 
 
-From here I was able to configure a...
+## Step 3: Login and Test
 
-![---](.jpg) 
+Log in to your Facebook account via Okta by selecting the application again. 
 
-The IP address configuration was complete...
-![---](.jpg) 
+![log into fb](https://imgur.com/dyjA4Ox.jpg) 
 
-I then created inbound rules to ...
+![---](https://imgur.com/CJFmYLi.jpg) 
 
-![---](.jpg) 
+## Step 4: Remove Applications (Optional)
 
-![---](.jpg) 
+In the event you'd like to remove APIs added, click on the three dots in the application's menu. This will open a side panel. Click Remove. 
+
+![fb side panel menu](https://imgur.com/HLhNfa4.jpg)  
+
+Confirm the removal when prompted.
+
+![remove confm](https://imgur.com/7QySdhc.jpg)  
 
 ## Conclusion
-In this project, I was able to successfully configure and complete a full cloud-native backup service and machine restore to 100% data availability in Azure. Both methods prove to be powerful on-premises data protection solutions, useful in events of service disruptions, accidental deletions or corruption of data. It's equally secure, scalable, and cost-effective as it is simple to architect, highly available, and resilient.
+In this project, we successfully integrated and managed API services on the Okta platform, streamlining the authentication process for Facebook and Instagram applications.
 
 ## fin
