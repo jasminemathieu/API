@@ -1,9 +1,6 @@
 # API Service Integrations on Okta
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="120" alt="linux logo"  />
-  <img width="36" />
-</div>
+![Api project](https://imgur.com/pRaeSpr.jpg)
 
 ## Introduction
 
