@@ -59,7 +59,7 @@ Log in to your Facebook account via Okta by selecting the application again.
 
 ![log into fb](https://imgur.com/dyjA4Ox.jpg) 
 
-![---](https://imgur.com/CJFmYLi.jpg) 
+![---](https://imgur.com/GFeWJt9.jpg) 
 
 ## Step 4: Remove Applications (Optional)
 
