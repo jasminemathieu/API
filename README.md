@@ -16,8 +16,6 @@ This project demonstrates the ease of integrating APIs on the Okta platform. API
 
         Facebook
 
-        Instagram
-
 
 ## Step 1: Add Applications
 
@@ -27,15 +25,11 @@ Begin by signing into the Okta account and selecting the Add Apps menu.
 
 ![](https://imgur.com/tDZwSQZ.jpg) 
 
-Search and integrate the applications you want to connect. For this project, we'll focus on Facebook and Instagram.
+Search and integrate the applications you want to connect. For this project, we'll focus on Facebook.
 
 ![search fb](https://imgur.com/FLnQlf3.jpg) 
 
 ![add fb](https://imgur.com/yBhscfj.jpg) 
-
-![search insta](https://imgur.com/nAauRB7.jpg) 
-
-![add insta](https://imgur.com/HgZ3Khc.jpg) 
 
 The applications have been successfully added. 
 
@@ -72,6 +66,6 @@ Confirm the removal when prompted.
 ![remove confm](https://imgur.com/7QySdhc.jpg)  
 
 ## Conclusion
-In this project, we successfully integrated and managed API services on the Okta platform, streamlining the authentication process for Facebook and Instagram applications.
+In this project, we successfully managed API services on the Okta platform, streamlining the authentication process for integrated applications.
 
 ## fin
